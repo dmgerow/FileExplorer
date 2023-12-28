@@ -3,6 +3,7 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
+                <identifier>detailPanel</identifier>
                 <componentName>force:detailPanel</componentName>
             </componentInstance>
         </itemInstances>
@@ -21,6 +22,7 @@
                     <value>File Explorer</value>
                 </componentInstanceProperties>
                 <componentName>qsydFileExplorer</componentName>
+                <identifier>qsydFileExplorer</identifier>
             </componentInstance>
         </itemInstances>
         <name>relatedTabContent</name>
@@ -42,6 +44,7 @@
                     <value>Standard.Tab.detail</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
+                <identifier>tab</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -59,6 +62,7 @@
                     <value>Template Builder</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
+                <identifier>tab2</identifier>
             </componentInstance>
         </itemInstances>
         <name>maintabs</name>
@@ -87,6 +91,7 @@
                     <value>3</value>
                 </componentInstanceProperties>
                 <componentName>force:highlightsPanel</componentName>
+                <identifier>highlightsPanel</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -96,6 +101,7 @@
                     <value>maintabs</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tabset</componentName>
+                <identifier>tabSet</identifier>
             </componentInstance>
         </itemInstances>
         <name>main</name>
