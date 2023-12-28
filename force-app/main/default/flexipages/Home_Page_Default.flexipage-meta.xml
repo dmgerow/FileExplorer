@@ -27,23 +27,6 @@
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>richTextValue</name>
-                    <value>&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;On the record page of your choice, edit the page in Lightning App Builder and search for the component &quot;File Explorer&quot; and drag it in.﻿&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Select the &apos;Search Results Display Style&apos; to your users&apos; preference.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</value>
-                </componentInstanceProperties>
-                <componentName>flexipage:richText2</componentName>
-            </componentInstance>
-        </itemInstances>
-        <name>Facet-b0498ddb-ff95-42f6-8817-9fcdcb90dc5e</name>
-        <type>Facet</type>
-    </flexiPageRegions>
-    <flexiPageRegions>
-        <itemInstances>
-            <componentInstance>
-                <componentInstanceProperties>
-                    <name>decorate</name>
-                    <value>false</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>richTextValue</name>
                     <value>&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Once your component is on the page, if needed, sync your available files first. Then you can move onto creating your hierarchy. Add and rearrange folders as you see fit and then move files into them.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://qsyd-filexplorer-dev-ed--c.documentforce.com/servlet/rtaImage?refid=0EM2w000000DCtP&quot; alt=&quot;image.png&quot;&gt;&lt;/p&gt;</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:richText</componentName>
@@ -92,10 +75,6 @@
         </itemInstances>
         <itemInstances>
             <componentInstance>
-                <componentInstanceProperties>
-                    <name>body</name>
-                    <value>Facet-b0498ddb-ff95-42f6-8817-9fcdcb90dc5e</value>
-                </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>label</name>
                     <value>Step 2 - Add &amp; Configure Component</value>
