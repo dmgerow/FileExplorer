@@ -12,7 +12,7 @@
                     <value>&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;To ensure the following steps go ahead smoothly, your user(s) should have access to the objects that come along with the package.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;We have provided a &lt;/span&gt;&lt;a href=&quot;/lightning/setup/PermSets/home&quot; target=&quot;_blank&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;permission set&lt;/b&gt;&lt;/a&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt; &lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;to make this step a bit quicker. Just search for &quot;File Explorer Permission Set&quot;. Simply assign it to any users which will be using this component.&lt;/span&gt;&lt;/p&gt;</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:richText</componentName>
-                <identifier>richText</identifier>
+                <identifier>richText0</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-d2312bcd-b009-4365-a61e-08db070d9816</name>
