@@ -12,6 +12,7 @@
                     <value>&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;To ensure the following steps go ahead smoothly, your user(s) should have access to the objects that come along with the package.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;We have provided a &lt;/span&gt;&lt;a href=&quot;/lightning/setup/PermSets/home&quot; target=&quot;_blank&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;permission set&lt;/b&gt;&lt;/a&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt; &lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;to make this step a bit quicker. Just search for &quot;File Explorer Permission Set&quot;. Simply assign it to any users which will be using this component.&lt;/span&gt;&lt;/p&gt;</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:richText</componentName>
+                <identifier>richText</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-d2312bcd-b009-4365-a61e-08db070d9816</name>
@@ -28,7 +29,7 @@
                     <name>richTextValue</name>
                     <value>&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;On the record page of your choice, edit the page in Lightning App Builder and search for the component &quot;File Explorer&quot; and drag it in.﻿&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Select the &apos;Search Results Display Style&apos; to your users&apos; preference.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</value>
                 </componentInstanceProperties>
-                <componentName>flexipage:richText</componentName>
+                <componentName>flexipage:richText2</componentName>
             </componentInstance>
         </itemInstances>
         <name>Facet-b0498ddb-ff95-42f6-8817-9fcdcb90dc5e</name>
@@ -46,6 +47,7 @@
                     <value>&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Once your component is on the page, if needed, sync your available files first. Then you can move onto creating your hierarchy. Add and rearrange folders as you see fit and then move files into them.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://qsyd-filexplorer-dev-ed--c.documentforce.com/servlet/rtaImage?refid=0EM2w000000DCtP&quot; alt=&quot;image.png&quot;&gt;&lt;/p&gt;</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:richText</componentName>
+                <identifier>richText4</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-faed0cc3-d5a9-4b73-b82c-53833d097493</name>
@@ -63,6 +65,7 @@
                     <value>&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Now your files are organised nicely under folders you can also go ahead and add some tags so you can easily search for them.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://qsyd-filexplorer-dev-ed--c.documentforce.com/servlet/rtaImage?refid=0EM2w000000DCtt&quot; alt=&quot;image.png&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://qsyd-filexplorer-dev-ed--c.documentforce.com/servlet/rtaImage?refid=0EM2w000000DCty&quot; alt=&quot;image.png&quot;&gt;&lt;/p&gt;</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:richText</componentName>
+                <identifier>richText5</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-boguu4wbq2i</name>
